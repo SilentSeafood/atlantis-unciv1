@@ -21,7 +21,7 @@
     "cost": 1,
     "movement": 5,
     "requiredTech": "Agriculture",
-    "uniqueTo": "Arcane Kingdom",
+    "uniqueTo": "Nephelim",
     "uniques": [
         "Can carry [3] [Missile] units",
         "Cannot attack",
