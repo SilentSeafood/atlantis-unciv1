@@ -26,6 +26,7 @@
         "Ignores terrain cost" ,
 	"Can carry [3] [Aircraft] units"
     ],
-    "strength": 3,
+    "strength": "3"
+    
 	}
 ]
