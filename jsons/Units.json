@@ -10,14 +10,13 @@
     "range": 5,
     "uniqueTo": "Nephelim",
     "uniques": [
-        "One time attack [999] damage",
         "Cannot be intercepted",
         "Self-destructs when attacking"
     ]
 	}
 	{
     "name": "Sorcerer",
-    "unitType": "Military",
+    "unitType": "Civilian",
     "cost": 1,
     "movement": 5,
     "requiredTech": "Agriculture",
@@ -27,7 +26,6 @@
         "Cannot attack",
         "Ignores terrain cost"
     ],
-    "promotions": ["Ignores terrain cost"],
     "strength": 0,
     "carryCapacity": 3,
     "carryUnitTypes": ["Missile"]
