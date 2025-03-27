@@ -15,7 +15,7 @@
 	}
 	{
     "name": "Sorcerer",
-    "unitType": "Civilian",
+    "unitType": "Siege",
     "cost": 1,
     "movement": 5,
     "requiredTech": "Agriculture",
@@ -27,8 +27,8 @@
 	"Can carry [3] [Sword] units"
     ],
     "strength": "3" ,
-    "range": "5" ,
-   
+    "range": "5" 
+    
     
 	}
 ]
