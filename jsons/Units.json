@@ -4,7 +4,7 @@
     "unitType": "Missile",
     "cost": 1,
     "requiredTech": "Agriculture",
-    "movement": 999,
+    "movement": 1,
     "strength": 999,
     "rangedStrength": 999,
     "range": 5,
