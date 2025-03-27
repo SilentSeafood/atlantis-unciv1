@@ -16,7 +16,7 @@
 	}
 	{
     "name": "Sorcerer",
-    "unitType": "Civilian",
+    "unitType": "ranged",
     "cost": 1,
     "movement": 5,
     "requiredTech": "Agriculture",
