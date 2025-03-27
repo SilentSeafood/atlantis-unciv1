@@ -15,4 +15,21 @@
         "Self-destructs when attacking"
     ]
 	}
+	{
+    "name": "Sorcerer",
+    "unitType": "Civilian",
+    "cost": 1,
+    "movement": 5,
+    "requiredTech": "Agriculture",
+    "uniqueTo": "Arcane Kingdom",
+    "uniques": [
+        "Can carry [3] [Missile] units",
+        "Cannot attack",
+        "Ignores terrain cost"
+    ],
+    "promotions": ["Ignores terrain cost"],
+    "strength": 0,
+    "carryCapacity": 3,
+    "carryUnitTypes": ["Missile"]
+	}
 ]
