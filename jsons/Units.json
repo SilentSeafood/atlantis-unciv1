@@ -27,6 +27,9 @@
         "Cannot attack",
         "Ignores terrain cost"
     ],
-
+    "promotions": ["Ignores terrain cost"],
+    "strength": 0,
+    "carryCapacity": 3,
+    "carryUnitTypes": ["Missile"]
 	}
 ]
