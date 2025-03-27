@@ -4,6 +4,11 @@
         "movementType": "Land"
     },
     {
+        "name": "Mage",
+        "movementType": "Land"
+        "uniques": ["can carry [3] [Missile] units"]
+    },
+    { 
         "name": "Sword",
         "movementType": "Land"
     },
