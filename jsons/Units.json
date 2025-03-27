@@ -24,9 +24,11 @@
         "Can carry [3] [Missile] units",
         "Cannot attack",
         "Ignores terrain cost" ,
-	"Can carry [3] [Aircraft] units"
+	"Can carry [3] [Sword] units"
     ],
-    "strength": "3"
+    "strength": "3" ,
+    "range": "5" ,
+   
     
 	}
 ]
