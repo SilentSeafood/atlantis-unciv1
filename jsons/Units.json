@@ -10,8 +10,7 @@
     "range": 5,
     "uniqueTo": "Nephelim",
     "uniques": [
-        "Cannot be intercepted",
-        "Self-destructs when attacking"
+        "Aircraft"
     ]
 	}
 	{
@@ -24,7 +23,8 @@
     "uniques": [
         "Can carry [3] [Missile] units",
         "Cannot attack",
-        "Ignores terrain cost"
+        "Ignores terrain cost" ,
+	"Can carry [3] [Aircraft] units"
     ],
     "strength": 0,
 	}
