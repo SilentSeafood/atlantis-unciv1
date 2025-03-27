@@ -16,7 +16,7 @@
 	}
 	{
     "name": "Sorcerer",
-    "unitType": "Archery",
+    "unitType": "Civilian",
     "cost": 1,
     "movement": 5,
     "requiredTech": "Agriculture",
@@ -27,7 +27,5 @@
         "Ignores terrain cost"
     ],
     "strength": 0,
-    "carryCapacity": 3,
-    "carryUnitTypes": ["Missile"]
 	}
 ]
