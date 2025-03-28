@@ -47,6 +47,6 @@
    "unitType": "Spawn",
    "strength": 12,
    "movement": 2,
-   "uniques": ["unbuildable",]
+   "uniques": ["unbuildable"]
   }
 ]
