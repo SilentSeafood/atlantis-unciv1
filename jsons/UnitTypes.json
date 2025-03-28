@@ -12,5 +12,6 @@
   {  "name": "Spawn",
      "movementType": "Land",
      "uniques": ["Disbands after [3] turns"]
+  }
 ]
    
