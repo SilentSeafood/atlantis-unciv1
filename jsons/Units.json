@@ -1,7 +1,7 @@
 [
 	{
     "name": "Magic Spell",
-    "unitType": "Bomber",
+    "unitType": "Missile",
     "cost": 1,
     "requiredTech": "Agriculture",
     "movement": 1,
