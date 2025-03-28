@@ -1,7 +1,7 @@
 [
 	{
     "name": "Magic Spell",
-    "unitType": "Missile",
+    "unitType": "Bomber",
     "cost": 1,
     "requiredTech": "Agriculture",
     "movement": 1,
@@ -10,7 +10,7 @@
     "range": 5,
     "uniqueTo": "Nephelim",
     "uniques": [
-        "Aircraft"
+        "Self-destructs when attacking"
     ]
 	}
 	{
@@ -21,7 +21,7 @@
     "requiredTech": "Agriculture",
     "uniqueTo": "Nephelim",
     "uniques": [
-	"Can carry [3] [Missile] units",
+	"Can carry [3] [Bomber] units",
         "Cannot attack",
         "Ignores terrain cost"
 	
