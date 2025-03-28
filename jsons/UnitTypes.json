@@ -9,5 +9,8 @@
      "movementType": "Land",
      "uniques": ["Can carry [3] [Spell] units"]
   }
+  {  "name": "Spawn",
+     "movementType": "Land",
+     "uniques": ["Disbands after [3] turns"]
 ]
    
