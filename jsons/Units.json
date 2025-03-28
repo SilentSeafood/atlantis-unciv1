@@ -10,7 +10,20 @@
     "range": 5,
     "uniqueTo": "Nephelim",
     "uniques": [
-        "Self-destructs when attacking"
+    ]
+	}
+	{
+    "name": "Summoning Rune",
+    "unitType": "Spell",
+    "cost": 1,
+    "movement": 1,
+    "rangedStrength": 0,
+    "range": 5,
+    "uniqueTo": "Nephelim",
+    "uniques": [
+        "Creates a [Warrior] when destroyed",
+        "Cannot be intercepted",
+
     ]
 	}
 	{
