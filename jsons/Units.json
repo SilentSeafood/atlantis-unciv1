@@ -15,7 +15,7 @@
 	}
 	{
     "name": "Sorcerer",
-    "unitType": "Aircraft Carrier",
+    "unitType": "Civilian",
     "cost": 1,
     "movement": 5,
     "requiredTech": "Agriculture",
