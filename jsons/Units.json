@@ -5,9 +5,9 @@
     "cost": 1,
     "requiredTech": "Agriculture",
     "movement": 1,
-    "strength": 999,
-    "rangedStrength": 999,
-    "range": 5,
+    "strength": 4,
+    "rangedStrength": 4,
+    "range": 2,
     "uniqueTo": "Nephelim",
     "uniques": [
     ]
@@ -19,7 +19,7 @@
     "movement": 1,
     "strength": 1,
     "rangedStrength": 0,
-    "range": 5,
+    "range": 2,
     "uniqueTo": "Nephelim",
     "uniques": [
         "Free [Spectre] appears <by consuming this unit>",
@@ -35,11 +35,10 @@
     "requiredTech": "Agriculture",
     "uniqueTo": "Nephelim",
     "uniques": [
-        "Cannot attack",
-        "Ignores terrain cost"
+        "Cannot attack"
 	
     ],
-    "strength": "3" ,
+    "strength": "2" ,
     "range": "5" 
 	}
   {
@@ -47,6 +46,6 @@
    "unitType": "Spawn",
    "strength": 12,
    "movement": 2,
-   "uniques": ["unbuildable"]
+   "uniques": ["Unbuildable", "Unavailable"]
   }
 ]
