@@ -1,0 +1,13 @@
+[
+     {
+     "name": "Spell",
+     "movementType": "Air",
+     "uniques": ["Self-destructs when attacking"]
+     }
+  {
+     "name": "Mage",
+     "movementType": "Land",
+     "uniques": ["Can carry [3] [Spell] units"]
+  }
+]
+   
