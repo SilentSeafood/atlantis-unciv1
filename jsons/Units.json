@@ -21,8 +21,7 @@
     "requiredTech": "Agriculture",
     "uniqueTo": "Nephelim",
     "uniques": [
-	"can carry [Missile] units",
-	"can carry [3] [Missile] units",
+	"Can carry [3] [Missile] units",
         "Cannot attack",
         "Ignores terrain cost"
 	
