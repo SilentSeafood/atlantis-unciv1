@@ -22,7 +22,7 @@
     "range": 5,
     "uniqueTo": "Nephelim",
     "uniques": [
-        "Free [Warrior] appears <by consuming this unit>",
+        "Free [Spectre] appears <by consuming this unit>",
         "Cannot be intercepted"
 
     ]
@@ -42,4 +42,10 @@
     "strength": "3" ,
     "range": "5" 
 	}
+  {
+   "name": "Spectre",
+   "unitType": "Spawn",
+   "strength": 12,
+   "movement": 2,
+   "uniques": ["unbuildable",]
 ]
