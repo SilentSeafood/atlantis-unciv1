@@ -11,7 +11,7 @@
   }
   {  "name": "Spawn",
      "movementType": "Land",
-     "uniques": ["Disbands after [3] turns"]
+     "uniques": ["Disbands <after [3] turns>"]
   }
 ]
    
