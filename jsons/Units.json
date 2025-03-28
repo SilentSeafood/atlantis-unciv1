@@ -17,11 +17,12 @@
     "unitType": "Spell",
     "cost": 1,
     "movement": 1,
+    "strength": 1,
     "rangedStrength": 0,
     "range": 5,
     "uniqueTo": "Nephelim",
     "uniques": [
-        "Creates Free [Warrior] when attacking",
+        "Free [Warrior] appears <by consuming this unit>",
         "Cannot be intercepted"
 
     ]
