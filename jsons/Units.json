@@ -15,12 +15,14 @@
 	}
 	{
     "name": "Sorcerer",
-    "unitType": "Mage",
+    "unitType": "Sword",
     "cost": 1,
     "movement": 5,
     "requiredTech": "Agriculture",
     "uniqueTo": "Nephelim",
     "uniques": [
+	"can carry [Missile]",
+	"can carry [3] [Missile]",
         "Cannot attack",
         "Ignores terrain cost"
 	
