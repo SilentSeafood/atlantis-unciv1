@@ -21,7 +21,7 @@
     "range": 5,
     "uniqueTo": "Nephelim",
     "uniques": [
-        "Free [Warrior] apears <upon being defeated> <with [100]% chance>",
+        "Free [Warrior] apears when destroyed",
         "Cannot be intercepted"
 
     ]
